@@ -1,3 +1,5 @@
+Aim: Flutter App with Common Widgets
+
 import 'package:flutter/material.dart';
 class MyHomePage extends StatefulWidget {
 const MyHomePage({super.key});
